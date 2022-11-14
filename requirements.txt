@@ -1,0 +1,24 @@
+
+pipenv
+aiohttp==3.8.3
+aioredis==2.0.1 
+astroid==2.12.12 
+channels==4.0.0
+channels-redis==4.0.0 
+colorama==0.4.6 
+Django==4.1.3
+django-countries==7.4.2
+django-environ==0.9.0
+django-extensions==3.2.1
+django-rest-framework==0.1.0
+django-storages==1.13.1
+djangorestframework==3.14.0 
+django-heroku 
+Pillow==9.3.0 
+psycopg2==2.9.5  
+pydyf==0.5.0 
+redis==4.3.4 
+six==1.16.0 
+stripe==4.2.0 
+weasyprint==57.1 
+whitenoise==6.2.0  sss
